@@ -15,7 +15,7 @@ You are tasked with downloading a file of weather data from the NOAA Local Clima
 However, instead of hardcoding the filename, your Python script must:
 
 1. **Scrape the directory page**.
-2. **Locate the file that was "Last Modified" on `2024-01-19 10:27`**.
+2. **Locate the file that was "Last Modified" on `2024-01-19 15:00`**.
 3. **Build the download URL** and fetch the file.
 4. **Load the file into pandas**.
 5. **Find and print the record(s) with the highest `HourlyDryBulbTemperature`**.
