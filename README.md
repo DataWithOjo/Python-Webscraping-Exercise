@@ -24,7 +24,6 @@ However, instead of hardcoding the filename, your Python script must:
 
 ## 🔧 Setup Instructions
 
-### 1. Clone the Repository
 ```bash
 git clone https://github.com/<your-username>/noaa-weather-downloader.git
 cd noaa-weather-downloader
